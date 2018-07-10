@@ -15,6 +15,8 @@ My Books Resource: (Not all resources are listed here)
 ## 计算机视觉(CV)
  - Python计算机视觉编程.pdf:
      + Forked From: https://pan.baidu.com/s/1gdnj0Uv (kcj8)
+ - CNNBook.pdf:
+     + Forked From: https://pan.baidu.com/s/1P0iKeKDcGPdiKikDXpXSSA
 
 ## 数学(Math)
  - [UTX] Mathematical-Analysis-I.pdf
@@ -42,11 +44,23 @@ My Books Resource: (Not all resources are listed here)
       + Forked From: https://arxiv.org/abs/1409.1556
 
 ## Other Web Resources
+
+### Book Repositories
  - https://github.com/allmachinelearning/MachineLearning
  - https://github.com/Tongzhenguo/ebooks
  - https://github.com/Owen864720655/E-book
  - https://github.com/xlxing/personalLearn
  - https://github.com/outerWorld/snail/tree/master/doc
+
+### Useful On-line Tools
+ - https://webdemo.myscript.com/
+      + Function: covert writing to Latex
+ - http://latex2png.com/
+      + Function: convert Latex to .png
+ - https://cloudinary.com/users/login
+      + Function: image bed
+ - https://blog.csdn.net/u014630987/article/details/70156489
+      + Function: Latex helper cheat-sheet
 
 # Notice
 The books are all copied down from the Internet. I do not own any of the books.
