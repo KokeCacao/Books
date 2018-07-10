@@ -37,6 +37,10 @@ My Books Resource: (Not all resources are listed here)
 ## 彩蛋(EasterEgg)
  - 女装入门到精通.pdf
 
+## Paper
+ - VGG16.pdf
+      + Forked From: https://arxiv.org/abs/1409.1556
+
 ## Other Web Resources
  - https://github.com/allmachinelearning/MachineLearning
  - https://github.com/Tongzhenguo/ebooks
